@@ -1,2 +1,2 @@
 # AI based Quote Generator 
-Using nlp to generate quotes
+Using Natural Language Processing to generate Quotes
